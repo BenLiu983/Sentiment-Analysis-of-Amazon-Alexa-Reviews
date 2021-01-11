@@ -46,7 +46,7 @@ Metrics Table:
 
 Confusion Matrix:
 
-
+![log_result](https://user-images.githubusercontent.com/64850893/104147998-7c488e00-539e-11eb-9578-d7f896be6533.jpg)
 
 Metrics Table:
 
