@@ -36,7 +36,10 @@ The clean dataset is a the following dataset with the shape of 3150 * 5228.
 
 Confusion Matrix:
 
+![nb_result](https://user-images.githubusercontent.com/64850893/104147965-5fac5600-539e-11eb-87f3-5eadc58a780d.jpg)
+
 Metrics Table:
+
 
 
 # Model2 Logistic Classifier
