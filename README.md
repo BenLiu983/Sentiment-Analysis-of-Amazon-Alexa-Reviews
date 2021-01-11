@@ -22,12 +22,11 @@ Another straightforward way to check the overall sentiment of the reviews is the
 
 
 # Date Cleansing
+1. Remove the punctuation.  
 
-1. Remove the punctuation  
+2. Remove the stopwords.
 
-2. Remove the stopwords
-
-3  Perform count vectorization (tokenization) 
+3.  Perform count vectorization(tokenization). 
 
 The clean dataset is the following dataset with the shape of 3150 * 5227.
 
