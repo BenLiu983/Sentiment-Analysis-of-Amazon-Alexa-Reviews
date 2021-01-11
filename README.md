@@ -17,12 +17,17 @@ As for the distribution of the feedbacks, most of them are positive feedbacks.
 ![feedback](https://user-images.githubusercontent.com/64850893/104144920-30dcb280-5393-11eb-9e34-ffa24da380e4.jpg)
 
 Another straightforward way to check the overall sentiment is the WordCloud.
-
+![cloud](https://user-images.githubusercontent.com/64850893/104144939-3d610b00-5393-11eb-813f-ee133a9552ce.jpg)
 
 
 
 # Date Cleansing
 
+1. Remove the punctuation   
+2. Remove the stopwords
+3  Perform count vectorization (tokenization) 
+
+The clean dataset is a the following dataset with the shape of 3150 * 5228.
 
 
 
