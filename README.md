@@ -40,13 +40,17 @@ Confusion Matrix:
 
 Metrics Table:
 
-
+![nb_table](https://user-images.githubusercontent.com/64850893/104147977-6c30ae80-539e-11eb-9bb1-8ccd746921fe.jpg)
 
 # Model2 Logistic Classifier
 
 Confusion Matrix:
 
+
+
 Metrics Table:
+
+
 
 # Conclusion
 
