@@ -34,12 +34,25 @@ The clean dataset is a the following dataset with the shape of 3150 * 5228.
 
 # Model1 Naive Bayes Classifier
 
+Confusion Matrix:
+
+Metrics Table:
 
 
 # Model2 Logistic Classifier
 
+Confusion Matrix:
 
+Metrics Table:
 
 # Conclusion
 
+1. Both models achieves 91% of prediciton accuracy
+
+2. However, the precision and recall for the negative feedback class is relatively low, while those metrics for the positive feedback are almost perfect.
+
 # Future
+
+1. Experiment more kinds of NLP Models.
+
+2. Implement sampling methods to deal with the imbalanced class.
