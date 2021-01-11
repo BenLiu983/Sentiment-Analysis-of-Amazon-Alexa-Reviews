@@ -34,7 +34,7 @@ The clean dataset is the following dataset with the shape of 3150 * 5227.
 ![clean](https://user-images.githubusercontent.com/64850893/104145301-6930c080-5394-11eb-856f-965ce9caa6a0.jpg)
 
 
-# Model1 Naive Bayes Classifier
+# Model 1 - Naive Bayes Classifier
 
 Confusion Matrix:
 
@@ -44,7 +44,7 @@ Metrics Table:
 
 ![nb_table](https://user-images.githubusercontent.com/64850893/104147977-6c30ae80-539e-11eb-9bb1-8ccd746921fe.jpg)
 
-# Model2 Logistic Classifier
+# Model 2 - Logistic Classifier
 
 Confusion Matrix:
 
