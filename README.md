@@ -10,6 +10,11 @@ Since this is a binary classification problem, I applied two classic NLP models,
 
 # EDA
 
+The dataset includes 3150 rows and 5 columns, while the last column is the response variable. (Note: 1 indicates positive feedback)
+![dataset](https://user-images.githubusercontent.com/64850893/104144804-c592e080-5392-11eb-8a1d-dcbf910bfe79.jpg)
+
+As for the distribution of the feedbacks, most of them are positive feedbacks.
+
 
 
 
