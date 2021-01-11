@@ -29,9 +29,16 @@ Another straightforward way to check the overall sentiment is the WordCloud.
 
 The clean dataset is a the following dataset with the shape of 3150 * 5228.
 
+![clean](https://user-images.githubusercontent.com/64850893/104145301-6930c080-5394-11eb-856f-965ce9caa6a0.jpg)
 
 
-# Modeling
+# Model1 Naive Bayes Classifier
+
+
+
+# Model2 Logistic Classifier
+
+
 
 # Conclusion
 
